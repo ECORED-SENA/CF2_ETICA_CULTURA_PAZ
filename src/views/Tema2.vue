@@ -20,7 +20,7 @@
     .bg-full-width.bg-color-23.mb-5
       .px-4.px-md-5
         #t_2_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-          h2 2.1 La Ambientes sociales: concepto
+          h2 2.1 Ambientes sociales: concepto
         
         p.mb-5 Los seres humanos construimos un espacio social donde interactuamos, crecemos y nos desarrollamos. Este espacio está compuesto por infraestructuras, relaciones interpersonales y el universo cultural que nos rodea.
 
@@ -123,7 +123,7 @@
                 img(src="@/assets/curso/tema2/10.svg", style="max-width: 90px").mx-auto
               .col-lg
                 h5.bg-color-28 Importante:
-                p.mb-0.text-white Revisa la reflexión incluida en el material complementario: expertos le explican por qué la familia colombiana está en crisis
+                p.mb-0.text-white Revisa la reflexión incluida en el material complementario: expertos le explican por qué la familia colombiana está en crisis.
     
     separador
     

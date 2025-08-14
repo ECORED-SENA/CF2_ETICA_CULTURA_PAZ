@@ -121,7 +121,7 @@
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 1.2 La ética familiar y la formación de valores
     
-    p.mb-5 La familia de hoy busca asegurar su <b>autonomía</b> sin dejar de ser una <b>comunidad abierta</b>, es decir, un espacio donde cada uno aprende a ser persona en relación con los demás. En este contexto, se puede hablar de una ética de la alteridad, basada en la filosofía de Emmanuel Lévinas (1998), que plantea que la presencia del otro es esencial para la constitución del yo:
+    p.mb-5 La familia de hoy busca asegurar su <b>autonomía</b> sin dejar de ser una <b>comunidad abierta</b>, es decir, un espacio donde cada uno aprende a ser persona en relación con los demás. En este contexto, se puede hablar de una ética de la alteridad, basada en la filosofía de Emmanuel Lévinas (1998), que plantea que la presencia del otro es esencial para la constitución del yo.
 
     .row.justify-content-center.mb-3
       .col-xl-10
@@ -133,7 +133,7 @@
             .col-lg.order-1.mb-3.mb-lg-0
               .p-4
                 h5 “Yo me hago persona en cuanto doy de mí al otro que también se hace persona”.
-                p.mb-0 Desde esta perspectiva, la familia no solo cuida, sino que <b>forma éticamente</b>. La base de la educación familiar consiste en transmitir a los niños normas y valores que les permitan comprender el mundo que los rodea (Esteve, 2010). Así, se establece una conexión profunda entre el ser en comunidad y la responsabilidad hacia los demás
+                p.mb-0 Desde esta perspectiva, la familia no solo cuida, sino que <b>forma éticamente</b>. La base de la educación familiar consiste en transmitir a los niños normas y valores que les permitan comprender el mundo que los rodea (Esteve, 2010). Así, se establece una conexión profunda entre el ser en comunidad y la responsabilidad hacia los demás.
 
 
     .bg-color-22.mb-5.p-4(data-aos="fade-up")
@@ -208,7 +208,7 @@
               img(src="@/assets/curso/tema1/18.png", data-aos="zoom-in")
           .col-lg-8.order-lg-1
             .bg-color-21.p-5(data-aos="fade-left")
-              p.mb-0 Además, las normas varían según el ámbito en el que nos encontremos—familiar, laboral, escolar, de pareja o de amistad—y según las situaciones que enfrentamos. En todos los casos, cumplen funciones fundamentales para la vida colectiva.
+              p.mb-0 Además, las normas varían según el ámbito en el que nos encontremos, familiar, laboral, escolar, de pareja o de amistad y según las situaciones que enfrentamos. En todos los casos, cumplen funciones fundamentales para la vida colectiva.
 
         .titulo-con-imagen.mb-5(data-aos="fade-right").ms-3.ms-md-0
           .titulo-con-imagen__fondo
@@ -356,10 +356,10 @@
                     figure
                       img(src="@/assets/curso/tema1/27.svg", data-aos="zoom-in")
                   .col-lg-7
-                    p(data-aos="fade-left").mb-4.text-white Lo invitamos a escuchar el siguiente Pódcast:
+                    p(data-aos="fade-left").mb-4.text-white Lo invitamos a escuchar el siguiente podcast:
             
                     TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
-                      texto="Decidir con ética: Diez recomendaciones para enfrentar dilemas morales "
+                      texto="Decidir con ética: diez recomendaciones para enfrentar dilemas morales "
                       tiempo
                       :audio="require('../assets/curso/podcast/podcast1.mp3')"
                     )
