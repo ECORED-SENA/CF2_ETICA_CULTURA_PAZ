@@ -219,7 +219,7 @@
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/UYFcdwi8iR0?si=yKC7yQrvZpB3_hzG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     p.mb-5 Existen distintos tipos de normas que orientan el desarrollo social, cultural y político de las sociedades. Estas normas permiten a las personas convivir, transmitir valores y desarrollar su potencial en libertad, siempre dentro de un marco normativo que garantiza el respeto a los derechos y a la convivencia.
 
