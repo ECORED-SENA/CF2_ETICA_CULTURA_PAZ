@@ -161,6 +161,14 @@ export default {
       tipo: 'Artículo ',
       descarga: 'downloads/2898.pdf',
     },
+    {
+      tema: 'Por qué la familia colombiana está en crisis',
+      referencia:
+        'Alda Mera para El País. (2015). Expertos le explican por qué la familia colombiana está en crisis.',
+      tipo: 'Artículo ',
+      link:
+        'https://www.elpais.com.co/colombia/expertos-le-explican-por-que-la-familia-na-esta-en-crisis.html',
+    },
   ],
   glosario: [
     {

@@ -23,7 +23,7 @@
       .bloque-texto-g__texto.p-4
         p.mb-0 Además, se resalta la importancia de las normas sociales como reguladoras de las interacciones humanas, permitiendo la cohesión y el orden en la vida comunitaria. Estas normas, junto con los valores éticos, son fundamentales para fomentar relaciones basadas en la solidaridad, la justicia y el respeto por la diversidad.
 
-    .row.mb-5.justify-content-center
+    .row.justify-content-center
       .col-md-8.col-lg-4.col-xl-2.order-lg-2.mb-3.mb-lg-0
         figure
           img(src="@/assets/curso/intro/3.svg", data-aos="zoom-in")

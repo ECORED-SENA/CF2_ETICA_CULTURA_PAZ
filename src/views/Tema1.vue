@@ -7,7 +7,7 @@
         span 1
       h1 La formación ética desde la familia
     
-    .row.mb-5
+    .row
       .col-lg-4.order-lg-2.mb-3.mb-lg-0
         figure
           img(src="@/assets/curso/tema1/1.png", data-aos="zoom-in")
@@ -38,7 +38,7 @@
             .bg-color-3.p-4(data-aos="fade-up")
               p.mb-0 Los compromisos derivados del matrimonio incluyen la convivencia, la asistencia, las obligaciones económicas y el cumplimiento de responsabilidades con los hijos. Estos compromisos están orientados a fortalecer el núcleo familiar y, con ello, a edificar una sociedad más ética y responsable.
             
-    h5.mb-5 Existen diversas formas de organización familiar que responden a contextos y dinámicas sociales particulares. A continuación, se describen los tipos más comunes:
+    p.mb-0 Existen diversas formas de organización familiar que responden a contextos y dinámicas sociales particulares. A continuación, se describen los tipos más comunes:
 
     .bg-full-width-2.bg-fondo-1
       .px-4.pb-md-3.p-5
@@ -70,7 +70,7 @@
 
         p.mb-5 Asimismo, del matrimonio se derivan deberes y derechos fundamentales que buscan garantizar la estabilidad y el bienestar del núcleo familiar. Estos compromisos también contribuyen a la formación ética de sus miembros:
     
-    .bg-full-width.bg-color-23.mb-5
+    .bg-full-width.bg-color-23
       .px-4.px-md-5
         .row.justify-content-center
           .col-xl-10
@@ -95,7 +95,7 @@
 
         .row.justify-content-center
           .col-xl-10
-            .bg-color-15.mb-3(data-aos="fade-up")
+            .bg-color-15(data-aos="fade-up")
               .row.justify-content-center.align-items-center
                 .col-lg-auto.mb-3.mb-lg-0
                   figure
@@ -219,7 +219,7 @@
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/UYFcdwi8iR0?si=yKC7yQrvZpB3_hzG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/cJ-ecz7oWh8?si=4sOgpvYgtZJb3l78" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     p.mb-5 Existen distintos tipos de normas que orientan el desarrollo social, cultural y político de las sociedades. Estas normas permiten a las personas convivir, transmitir valores y desarrollar su potencial en libertad, siempre dentro de un marco normativo que garantiza el respeto a los derechos y a la convivencia.
 
@@ -237,7 +237,7 @@
     p.mb-5 Las normas pueden clasificarse en sociales, morales, religiosas y jurídicas, según sus características, origen, obligatoriedad y tipo de sanción: 
 
     .titulo-sexto.color-acento-contenido
-      h5 Tabla 1
+      h5 Tabla 1.
       span Tipos de normas
     
     .tabla-a.color-acento-contenido.tbl.mb-5
@@ -274,7 +274,7 @@
               | Pagar impuestos, respetar señales de tránsito.
             td Multas, arrestos, incluso penas graves según el país.
 
-    p.mb-5 Estas normas cumplen una función esencial: ordenan la vida social, evitan el caos, promueven la convivencia pacífica y regulan el ejercicio de los derechos. Aunque no todas son obligatorias legalmente, cada una de ellas tiene un peso significativo en la formación ética del individuo y en la estructura colectiva de la sociedad.
+    p.mb-0 Estas normas cumplen una función esencial: ordenan la vida social, evitan el caos, promueven la convivencia pacífica y regulan el ejercicio de los derechos. Aunque no todas son obligatorias legalmente, cada una de ellas tiene un peso significativo en la formación ética del individuo y en la estructura colectiva de la sociedad.
 
     separador
     
@@ -291,7 +291,7 @@
     
     p.mb-5 No existe un procedimiento único para decidir, ya que cada individuo enfrenta las situaciones según lo que considera importante. Aun así, es posible orientar el proceso de toma de decisiones mediante una serie de preguntas clave, como:
 
-    .bg-full-width.bg-color-23.mb-5
+    .bg-full-width.bg-color-23
       .px-4.px-md-5
         .row.mb-5
           .col-6.col-lg-3.mb-5.mb-lg-0
@@ -344,12 +344,12 @@
         
         p.mb-5 A continuación, se presenta un pódcast  que expone diez recomendaciones clave para enfrentar dilemas éticos mediante un proceso deliberado y consciente, orientado a fortalecer tanto la toma de decisiones personales como profesionales.
 
-        .row.mb-5
+        .row.align-items-center
           .col-lg-5.order-lg-2.mb-3.mb-lg-0
             figure
               img(src="@/assets/curso/tema1/26.png", data-aos="zoom-in")
           .col-lg-7.order-lg-1
-            .bg-color-26.mb-5.tarjeta
+            .bg-color-26.tarjeta
               .p-4.p-md-5
                 .row.justify-content-center.align-items-center
                   .col-lg-5.mb-3.mb-lg-0
@@ -363,10 +363,7 @@
                       tiempo
                       :audio="require('../assets/curso/podcast/podcast1.mp3')"
                     )
-      
 
-
- 
 </template>
 
 <script>

@@ -7,7 +7,7 @@
         span 2
       h1 ¿Cómo me convierto en un ser social?
     
-    .row.mb-5
+    .row
       .col-lg-4.order-lg-2.mb-3.mb-lg-0
         figure
           img(src="@/assets/curso/tema2/1.png", data-aos="zoom-in")
@@ -116,7 +116,7 @@
     
     .row.justify-content-center
       .col-lg-10
-        .tarjeta.bg-color-26.mb-5
+        .tarjeta.bg-color-26
           .px-4.px-md-5.py-4
             .row.align-items-center
               .col-lg-auto.mb-3.mb-lg-0
@@ -201,7 +201,7 @@
             h4.text-center.mb-4 Competencias específicas
             p.text-center Habilidades técnicas vinculadas directamente al área ocupacional o productiva específica.
 
-        p.mb-5 En este enfoque, el aprendiz es protagonista del proceso formativo: construye su conocimiento, asume su responsabilidad frente al entorno y fortalece su carácter social mediante la interacción con los demás.
+        p.mb-0 En este enfoque, el aprendiz es protagonista del proceso formativo: construye su conocimiento, asume su responsabilidad frente al entorno y fortalece su carácter social mediante la interacción con los demás.
 
 </template>
 
